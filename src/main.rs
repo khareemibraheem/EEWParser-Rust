@@ -33,7 +33,7 @@ fn main() {
         match read_content_from_stdin() {
             Ok(s) => s,
             Err(e) => {
-                eprintln!("报文读取失败: {e}");
+                eprintln!("Failed to read telegram data: {e}");
                 process::exit(1);
             }
         }
@@ -41,7 +41,7 @@ fn main() {
         match read_content_from_file(&file_path) {
             Ok(s) => s,
             Err(e) => {
-                eprintln!("报文档案打开或读取失败: {e}");
+                eprintln!("Failed to open or read telegram file: {e}");
                 process::exit(1);
             }
         }
@@ -58,7 +58,7 @@ fn main() {
     let json = match serde_json::to_string(&t) {
         Ok(j) => j,
         Err(e) => {
-            eprintln!("JSON 序列化失败: {e}");
+            eprintln!("Failed to serialize result to JSON: {e}");
             process::exit(1);
         }
     };

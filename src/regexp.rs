@@ -9,7 +9,6 @@ pub struct TelegramRegexp {
     pub max_matches: isize,
 }
 
-// 对应 Go 的 HasNewline
 pub fn has_newline(s: &str) -> bool {
     if s.contains('\n') {
         let trimmed = s.trim();
